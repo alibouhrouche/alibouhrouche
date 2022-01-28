@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🌱 I’m currently learning frontend developement at [Frontendmentor](https://www.frontendmentor.io/profile/alibouhrouche)
+- 🌱 I’m currently learning frontend development at [Frontendmentor](https://www.frontendmentor.io/profile/alibouhrouche)
 - 💬 Ask me about C / Javascript
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alibouhrouche-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alibouhrouche/)
 
