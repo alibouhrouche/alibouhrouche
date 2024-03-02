@@ -1,11 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://ali.js.org/">
-      <img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://dev.page/alibouhrouche">
-      <img src="https://img.shields.io/badge/DevPage-brightgreen?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://iev.ma/">
+      <img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logoColor=white" alt="Website Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/alibouhrouche/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
